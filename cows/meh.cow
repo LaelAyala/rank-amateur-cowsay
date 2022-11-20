@@ -1,0 +1,9 @@
+##
+## A MEH smile
+##
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+           [] []
+          -------
+EOC
